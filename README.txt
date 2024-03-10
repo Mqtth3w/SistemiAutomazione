@@ -1,0 +1,1 @@
+Progetto realizzato con TIA Portal v16 in Ladder, di conseguenza va aperto con TIA Portal.
