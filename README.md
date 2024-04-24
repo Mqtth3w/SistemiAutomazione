@@ -1,6 +1,6 @@
-### Progetto realizzato con TIA Portal v16 in Ladder, di conseguenza va aperto con TIA Portal.
+## Progetto realizzato con TIA Portal v16 in Ladder, di conseguenza va aperto con TIA Portal.
 
-## Cassaforte con password: 
+# Cassaforte con password: 
 
 - Per accedere è necessario inserire una password, per default 1234.
 - Inoltre è possibile fare logout.
